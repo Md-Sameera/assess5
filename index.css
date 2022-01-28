@@ -1,0 +1,147 @@
+em{
+    padding: 2%;
+    color: blanchedalmond;
+    text-align: center;
+}
+p{
+    padding: 2%;
+    color: blanchedalmond;
+    text-align: center;
+}
+
+.box1{
+    border: 4px solid red;
+    height: 60px;
+    width: 290px;
+    border-radius: 30px;
+    background-color: black;
+    position: absolute;
+    top: 30px;
+    padding: 35px;
+    margin: 25px;
+}
+.box2{
+    border: 4px solid red;
+    height: 40px;
+    width: 350px;
+    margin: 39px;
+    border-radius: 30px;
+    background-color: black;
+    padding: 1%;
+    position: absolute;
+    top: 33px;
+    left: 350px;
+    
+}
+.box3{
+    border: 4px solid red;
+    height: 90px;
+    width: 240px;
+    border-radius: 30px;
+    background-color: black;
+    
+    float: right;
+    padding: 4px 3px;
+    text-align: center;
+}
+.circle{
+    border: 4px solid rgb(54, 34, 34);
+    background-color: darkcyan;
+    color: black;
+    height: 270px;
+  width: 270px;
+  border-radius: 50%;
+  text-align: center;
+  float: left;
+  display: block;
+}
+.reg{
+    padding: 14% 37%;
+    text-align: center;
+}
+.frm{
+    border: 4px dashed red;
+    color: rgb(117, 13, 35);
+    text-align: center;
+    float: center;
+    justify-content: center;
+}
+.box4{
+    border: 4px solid red;
+    height: 50px;
+    width: 350px;
+    border-radius: 30px;
+    background-color: black;
+    position: absolute;
+    align-items: center;
+    margin-left: 35%;
+}
+.box5{
+    padding-top: 3%;
+    border: 4px solid green;
+    border-radius: 7%;
+    width: 300px;
+    margin: 25px;
+    height: 270px;
+    float: left;
+    text-align: center;
+    color: indigo;
+}
+.box6{
+    padding-top: 3%;
+    border: 4px solid green;
+    border-radius: 7%;
+    width: 300px;
+    margin: 25px;
+    height: 270px;
+    float: left;
+    text-align: center;
+    color: indigo;
+}
+.box7{
+    padding-top: 3%;
+    border: 4px solid green;
+    border-radius: 7%;
+    width: 300px;
+    margin: 25px;
+    height: 270px;
+    float: left;
+    text-align: center;
+    color: indigo;
+}
+.box8{
+    padding-top: 3%;
+    border: 4px solid green;
+    border-radius: 7%;
+    width: 300px;
+    margin: 25px;
+    height: 270px;
+    float: left;
+    text-align: center;
+    color: indigo;
+}
+.box9{
+    padding-top: 3%;
+    border: 4px solid green;
+    border-radius: 7%;
+    width: 300px;
+    margin: 25px;
+    height: 270px;
+    float: left;
+    text-align: center;
+    color: indigo;
+}
+.box10{
+    padding-top: 3%;
+    border: 4px solid green;
+    border-radius: 7%;
+    width: 300px;
+    margin: 25px;
+    height: 270px;
+    float: left;
+    text-align: center;
+    color: indigo;
+}
+b{
+    font-size: 25px;
+}
